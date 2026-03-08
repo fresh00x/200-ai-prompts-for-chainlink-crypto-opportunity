@@ -1,6 +1,6 @@
 # 200 AI Prompts for Chainlink Crypto Opportunity
 
-Unlock unparalleled creativity and innovation with this exclusive collection of 200 carefully curated AI prompts specifically tailored to the Chainlink crypto opportunity. Perfect for entrepreneurs, d
+Unleash the power of your AI model with this curated list of 200 unique and engaging prompts specifically designed to capitalize on the Chainlink crypto opportunity. Ideal for use with ChatGPT or simi
 
 ## Dataset Info
 
@@ -14,7 +14,7 @@ Unlock unparalleled creativity and innovation with this exclusive collection of 
 ## Sample
 
 ```json
-"How can we leverage Chainlink to revolutionize [insert industry]?"
+"..."
 ```
 
 ## Usage
